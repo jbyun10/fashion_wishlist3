@@ -46,4 +46,5 @@ class CategoriesController < ApplicationController
     redirect_to "/categories", :notice => "Category deleted."
   end
 
+
 end
